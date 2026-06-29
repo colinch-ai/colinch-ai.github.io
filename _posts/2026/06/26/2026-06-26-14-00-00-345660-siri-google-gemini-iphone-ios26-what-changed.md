@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# 시리가 구글 Gemini로 바뀐다 — iOS 26 업데이트에서 내 아이폰에 실제로 뭐가 달라지는가
-
 ![Apple iPhone Siri AI interface redesign 2026](https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=800&q=80)
 
 솔직히 말하면 기존 Siri는 너무 오래 실망을 줬다. "타이머 5분 맞춰줘", "날씨 알려줘" 수준 말고는 쓸 게 없었다. 근데 이번 WWDC 2026에서 애플이 꺼낸 카드가 꽤 충격적이다. 구글 Gemini를 아예 Siri의 두뇌로 넣겠다는 얘기다.

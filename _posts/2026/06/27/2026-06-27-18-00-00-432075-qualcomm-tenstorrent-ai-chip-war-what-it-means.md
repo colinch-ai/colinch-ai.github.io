@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# AI 칩 전쟁, 엔비디아 독점에 균열 — 퀄컴이 텐스토런트를 14조에 사는 게 내 ChatGPT와 무슨 관계
-
 ![AI semiconductor chip microprocessor circuit board](https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80)
 
 엔비디아가 AI 칩 시장을 거의 독점하는 동안, 조용히 다른 방향을 파온 스타트업이 있다. 퀄컴이 그 회사 텐스토런트(Tenstorrent)를 최대 14조 원에 사려 한다는 뉴스가 어제(6월 26일) 터졌다. 대기업 돈 싸움처럼 보이는데, ChatGPT나 Claude 쓰는 사람한테도 의미가 있다.

@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# Anthropic 상장 소식 — Claude 쓰는 나한테 달라지는 게 있을까
-
 ![주식 시장과 AI 기업 상장 관련 차트](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80)
 
 Claude를 만드는 Anthropic이 올해 주식 시장에 상장한다. 회사 가치만 약 960조 원. ChatGPT 만드는 OpenAI 다음으로 AI 업계에서 두 번째로 큰 뉴스가 터졌다.

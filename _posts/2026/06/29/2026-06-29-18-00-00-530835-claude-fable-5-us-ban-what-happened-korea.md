@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# Claude Fable 5 — 출시 3일 만에 미국 정부에 막힌 역대 최강 AI, 지금 어떻게 됐나
-
 ![Claude Fable 5 AI 모델 출시와 미국 정부 수출 통제](https://images.unsplash.com/photo-1677756119517-756a188d2d94?w=800&q=80)
 
 역대 가장 강력한 Claude 모델이 나온 지 3일 만에 사라졌다. 미국 정부 수출 통제령 때문이다. 지금 한국에서는 여전히 자유롭게 쓸 수 없고, 언제 완전히 돌아올지도 불명확하다.

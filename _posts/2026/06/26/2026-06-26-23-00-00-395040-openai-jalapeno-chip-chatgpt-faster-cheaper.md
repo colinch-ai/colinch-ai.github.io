@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# OpenAI가 자체 칩 Jalapeño를 만든 이유 — ChatGPT 사용자한테 뭐가 달라지나
-
 ![반도체 칩 클로즈업, AI 하드웨어 기술](https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80)
 
 OpenAI가 자체 AI 칩을 만들기 시작했다. 이름은 Jalapeño. 6월 24일 Broadcom과 공동으로 발표했다. 직접 눈에 보이는 변화는 아니지만, ChatGPT를 쓰는 사람이라면 결과적으로 더 빠른 응답과 더 저렴한 요금으로 이어질 수 있다.

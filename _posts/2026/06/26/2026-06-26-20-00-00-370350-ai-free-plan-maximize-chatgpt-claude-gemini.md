@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# ChatGPT·Claude·Gemini 무료로 최대한 쓰는 법 — 2026년 현재 기준
-
 ![AI 도구 비교 노트북 화면](https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80)
 
 ChatGPT 무료 플랜으로도 GPT-4o를 쓸 수 있다. 이걸 모르는 사람이 아직 많다. 횟수 제한은 있지만, 하루 일반적인 용도로 쓰기엔 사실 부족하지 않은 경우가 많다. 유료 구독을 결정하기 전에, 무료 플랜을 제대로 쓰고 있는지부터 확인해볼 필요가 있다.

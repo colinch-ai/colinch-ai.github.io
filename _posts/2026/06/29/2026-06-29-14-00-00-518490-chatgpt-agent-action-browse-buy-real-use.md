@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# ChatGPT 에이전트 — 이제 AI가 답 대신 직접 한다
-
 ![AI 에이전트가 자율적으로 웹을 탐색하고 작업하는 개념 이미지](https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80)
 
 ChatGPT가 드디어 직접 움직이기 시작했다. 답을 알려주는 게 아니라, 실제로 행동한다.

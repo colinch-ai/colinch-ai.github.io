@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# iOS 27부터 아이폰 AI를 직접 고른다 — ChatGPT 독점 끝나고 Claude·Gemini 선택 가능
-
 ![iPhone Apple Intelligence AI model selection 2026](https://images.unsplash.com/photo-1512941937938-a6bb7a4d2e08?w=800&q=80)
 
 iOS 27부터 아이폰 AI를 내가 원하는 모델로 바꿀 수 있다. ChatGPT가 기본값이지만, Claude·Gemini·Grok 중 하나로 교체하면 Siri부터 Writing Tools까지 전부 그 모델로 동작한다.

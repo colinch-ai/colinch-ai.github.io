@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# ChatGPT는 80% 좌편향 — 워싱턴포스트 AI 편향 연구, 결과가 놀랍다
-
 ![워싱턴포스트 AI 정치 편향 연구 - ChatGPT Gemini Claude 비교](https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80)
 
 ChatGPT에게 정치적 질문을 하면 답변의 80%가 좌편향이었다. 워싱턴포스트가 Dartmouth College와 Stanford University 연구진과 함께 직접 테스트한 결과다. 가장 균형 잡힌 건 Google의 Gemini였다.

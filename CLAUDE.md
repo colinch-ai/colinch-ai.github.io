@@ -146,8 +146,6 @@ comments: true
 share: true
 ---
 
-# 제목
-
 ![이미지](https://images.unsplash.com/photo-XXXXXXXX?w=800&q=80)
 
 [첫 문장 = 결론. "X를 쓰면 Y가 된다" 또는 "X는 Y보다 Z한 상황에서 낫다".]

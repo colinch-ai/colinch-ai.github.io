@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# Microsoft Copilot Cowork 정식 출시 — Excel·Outlook에서 AI가 알아서 일하는 시대
-
 ![사무실 노트북에서 AI 업무 자동화를 활용하는 직장인](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80)
 
 기존 Copilot이 "물어봐야 대답하는 AI"였다면, Cowork는 "시켜두면 혼자 처리하는 AI"다. 6월 16일 Microsoft가 Copilot Cowork를 정식 출시했고, 내부에서 Anthropic의 Claude 모델이 돌아간다.

@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# 구글 AI 핵심 연구자들이 OpenAI·Anthropic으로 떠났다 — Gemini 써도 괜찮나
-
 ![구글 AI 연구 핵심 인재 이탈 뉴스](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80)
 
 Gemini 쓰는 사람이라면 이번 뉴스 불안할 수밖에 없다. 6월 셋째 주에만 구글 DeepMind 핵심 연구자 4명이 줄줄이 짐을 쌌다. 그냥 연구자가 아니다. 노벨상 받은 사람, Transformer 논문 쓴 사람이다.

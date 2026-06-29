@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# 수백만 명이 ChatGPT 구독을 취소한 이유 — 지금 Claude로 갈아탈까 말까
-
 ![ChatGPT와 Claude 비교 — AI 챗봇 선택 기준](https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=800&q=80)
 
 올해 초 OpenAI가 미 국방부와 손을 잡은 뒤, ChatGPT 유료 구독을 끊고 Claude로 넘어가는 사람이 폭발적으로 늘었다. 단순한 성능 비교가 아니라 "이 회사 믿어도 되나"의 문제였다.

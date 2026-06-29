@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# 메타 AI 안경 출시 — $299에 진짜 AI가 달려 있나
-
 ![메타 AI 스마트 안경 착용 모습](https://images.unsplash.com/photo-VlLR8UYLw2I?w=800&q=80)
 
 $299짜리 AI 안경이 나왔다. 처음 봤을 때 든 생각이 "드디어"가 아니라 "이번엔 진짜인가?"였다.

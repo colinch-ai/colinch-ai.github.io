@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# 알리바바가 Claude를 훔쳤다? — AI '증류 공격' 논란 쉽게 설명
-
 ![사이버 해킹과 AI 보안 개념 이미지](https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&q=80)
 
 2만 5천 개 가짜 계정을 만들어 Claude에게 2,880만 번 질문을 던졌다 — Anthropic이 알리바바 Qwen 연구진을 이렇게 고발했다. 내가 매일 쓰는 Claude가 이런 식으로 '복사' 당하고 있다는 게 무슨 의미인지 풀어봤다.
