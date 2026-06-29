@@ -216,5 +216,5 @@ AI입문, 직장인AI, 학생AI, 프리랜서AI
 
 단편 중심 블로그 — 시리즈보다 날짜별 독립 포스트.
 
-마지막 포스트: `_posts/2026/06/26/2026-06-26-20-00-00-370350-ai-free-plan-maximize-chatgpt-claude-gemini.md`
-다음 일련번호: `382695`
+마지막 포스트: `_posts/2026/06/28/2026-06-28-18-00-00-481455-google-deepmind-talent-exodus-gemini-impact.md`
+다음 일련번호: `493800`
