@@ -34,6 +34,6 @@ share: true
 
 웹사이트 게시도 초안 단계에서 멈추는 게 좋다. 회사 문서나 고객 이름은 공개 전에 삭제한다. Comet은 Gmail과 브라우저 기록을 활용할 수 있으므로 모든 권한을 켜면 안 된다.
 
-이번 변화의 핵심은 작업의 연속성이다. 반복 조사나 주간 보고처럼 같은 기준을 다시 쓰는 사람은 기억 기능을 시험해볼 만하다. “오늘 상태로 갱신하고 공개 전 출처와 개인정보를 점검한다”고 지시하면 된다.
+핵심은 작업의 연속성이다. 반복 조사나 주간 보고에 기억 기능을 시험해볼 만하다. “오늘 상태로 갱신하고 공개 전 출처와 개인정보를 점검한다”고 지시하면 된다.
 
 출처: [Perplexity Changelog - Brain, faster Computer models, and website publishing](https://www.perplexity.ai/changelog), [Perplexity Help Center - Getting Started with Comet](https://www.perplexity.ai/help-center/en/articles/11172798-getting-started-with-comet)
