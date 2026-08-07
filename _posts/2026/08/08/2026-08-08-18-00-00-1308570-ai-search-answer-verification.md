@@ -38,14 +38,6 @@ AI 검색 결과를 받은 뒤 아래 문장을 그대로 붙인다.
 
 이 프롬프트는 ChatGPT, Gemini, Perplexity 어디서든 쓸 수 있다. 그래도 마지막에는 원문 링크를 열어 제목과 게시일을 직접 확인해야 한다.
 
-## 도구별로 이렇게 나눠 쓰면 편하다
-
-| 상황 | 먼저 쓸 도구 | 이유 |
-|---|---|---|
-| 여러 출처를 빠르게 모으기 | Perplexity | 인용 링크를 한 화면에서 보기 쉽다 |
-| 긴 답변을 구조화하기 | ChatGPT | 표와 체크리스트로 다시 정리하기 좋다 |
-| Google 문서·검색과 함께 확인하기 | Gemini | 검색 결과와 문서 작업을 이어가기 편하다 |
-
 AI 검색의 가장 큰 실수는 틀린 답보다 그럴듯한 답이다. 보고서, 구매 비교, 지원금 조건처럼 판단이 달라지는 일이라면 답변을 결론이 아닌 검증할 초안으로 써야 한다. 3분만 확인하면 속도는 살리고 과한 확신은 줄일 수 있다.
 
 참고: [Google AI Mode 공식 안내](https://support.google.com/websearch/answer/16011537), [AI Overviews의 주장·출처 일치성 연구](https://arxiv.org/abs/2605.14021), [AI 검색의 새로운 흐름을 다룬 Le Monde 보도](https://www.lemonde.fr/en/pixels/article/2026/08/01/the-new-era-of-ai-powered-search-which-could-change-the-web-economy_6756067_13.html)
