@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-![반복 버그 제보를 재현 단계와 근거가 있는 리포트로 바꾸는 AI 업무 흐름](/assets/images/2026-10-02-ai-bug-report-triage.png)
+![반복 버그 제보를 재현 단계와 근거가 있는 리포트로 바꾸는 AI 업무 흐름](/images/2026-09-17-ai-customer-reply-checklist.png)
 
 그림에서 볼 부분은 AI가 버그를 고치는 장면이 아니라, 제보를 재현 절차·근거·사람의 최종 검토로 나누는 흐름이다.
 
