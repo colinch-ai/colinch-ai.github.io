@@ -7,7 +7,7 @@ tags: [ChatGPT, Claude, Gemini, 업무자동화, 프롬프트, AI비교]
 comments: true
 share: true
 ---
-![사내 규정 PDF 두 개를 변경 조항 표로 비교하는 AI 업무 흐름](/images/2026-09-21-ai-onboarding-checklist.png)
+![사내 규정 PDF 두 개를 변경 조항 표로 비교하는 AI 업무 흐름](/images/2026-09-29-ai-contract-version-comparison.png)
 
 사내 취업규칙·출장 규정·보안 지침을 매달 확인하는 총무 담당자라면 ChatGPT·Claude·Gemini 무료 계정으로 규정 PDF 2개를 먼저 비교해볼 만하다. 문서가 2~3개이고 민감정보를 지웠다면 구독은 필수가 아니다. 반대로 인사정보가 들어 있거나 여러 부서가 반복 처리한다면 개인 계정보다 회사 승인 환경을 우선해야 한다. 목표는 “요약”이 아니라 **바뀐 조항, 적용일, 사람이 확인할 근거 위치가 붙은 표**다.
 
